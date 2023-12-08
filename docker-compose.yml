@@ -1,7 +1,7 @@
 version: '3'
 services:
   qap2_devops:
-    image: rledrew/qap2_devops:1.0
+    image: rledrew/qap2_devops:latest
     ports:
       - 8080:8080
     environment:
